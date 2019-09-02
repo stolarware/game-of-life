@@ -1,6 +1,7 @@
 package com.wakaleo.gameoflife.domain;
 
  /**
+ * comment added 01.09.2019
  * Wakaleo Consulting - John Ferguson Smart
  * Game of life, demonstration application for Jenkins: The Definitive Guide
  *
